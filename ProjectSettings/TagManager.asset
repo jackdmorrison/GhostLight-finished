@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rope
+  - FP
+  - Start
+  - FPManage
+  - Skelly
+  - Tile
+  - P_Weapon
+  - Obstacle
+  - Ghost
+  - fire
+  - hearts
+  - EnemyWeapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1218751499
+    locked: 0
+  - name: TileSet
+    uniqueID: 2879922209
+    locked: 0
+  - name: Player
+    uniqueID: 479910435
+    locked: 0
+  - name: Enemy
+    uniqueID: 1274221681
+    locked: 0
+  - name: Weapon
+    uniqueID: 1634393389
+    locked: 0
